@@ -42,4 +42,4 @@ This repository contains a modular pipeline for discovering and labelling topics
    - `hirarchical_clustering` to merge highly similar clusters and iteratively refine the taxonomy.
 
 ## License
-No explicit license is provided.  Please contact the repository owner before reusing the code or data in other projects.
+No explicit license is provided.  Please contact me before reusing the code or data in other projects.
