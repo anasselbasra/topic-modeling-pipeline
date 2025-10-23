@@ -1,0 +1,14 @@
+emoji
+hdbscan
+matplotlib
+numpy
+openai
+pandas
+plotly
+pyarrow
+scikit-learn
+scipy
+sentence-transformers
+torch
+tqdm
+umap-learn
